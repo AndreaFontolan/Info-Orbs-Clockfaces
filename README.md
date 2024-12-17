@@ -5,7 +5,6 @@ I use a branch from
 https://github.com/flattermann
 momentary it's
 https://github.com/flattermann/info-orbs/tree/LittleFS
-
 all files are 'thank you' ware.
 
 
