@@ -1,5 +1,5 @@
 # Info-Orbs-Clockfaces
-these are clockfaces for the awesome Info-Orbs by brettdottech.
+these are clock-faces for the awesome Info-Orbs by brettdottech.
 
 https://github.com/brettdottech/info-orbs
 
