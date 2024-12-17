@@ -11,7 +11,7 @@ momentary it's
 
 https://github.com/flattermann/info-orbs/tree/LittleFS
 
-all files are 'thank you' ware.
+All files are 'thank you' ware.
 
 
 I expect you to say 'thank you' when you like them and use them.
