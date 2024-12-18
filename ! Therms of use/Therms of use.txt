@@ -1,0 +1,29 @@
+
+Therms of use
+
+These are clock-faces for the awesome Info-Orbs by brettdottech.
+
+https://github.com/brettdottech/info-orbs
+
+I use a branch from
+
+https://github.com/flattermann
+
+momentary it's
+
+https://github.com/flattermann/info-orbs/tree/LittleFS
+
+All files are 'thank you' ware.
+I expect you to say 'thank you' when you like them and use them.
+If you earn money with them give a reasonable amout to a kindergarden of your choice.
+If you earn a lot of money with them give some to me too. :-)
+
+
+Use the clock-faces with the Info-Orbs as you like.
+Modify them, love them, hate them, talk good or bad about them.
+Link to my GitHub site but no deeplinks please.
+
+But don't upload them on other sites
+and don't use them for your own Internet-site.
+
+Thanks and have fun
