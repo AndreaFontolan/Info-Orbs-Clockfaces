@@ -20,3 +20,4 @@ If you earn money with them give a reasonable amout to a kindergarden of your ch
 
 If you earn a lot of money with them give some to me too. :-)
 
+Use at your own risk!
