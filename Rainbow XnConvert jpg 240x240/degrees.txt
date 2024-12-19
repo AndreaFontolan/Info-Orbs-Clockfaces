@@ -1,0 +1,9 @@
+
+custom0 color-wheel 000 degrees
+custom1 color-wheel 045 degrees
+custom2 color-wheel 090 degrees
+custom3 color-wheel 135 degrees
+custom4 color-wheel 180 degrees
+custom5 color-wheel 225 degrees
+custom6 color-wheel 270 degrees
+custom7 color-wheel 315 degrees
