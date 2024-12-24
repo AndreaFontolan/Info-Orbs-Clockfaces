@@ -9,10 +9,6 @@ I use a branch from
 
 https://github.com/flattermann
 
-momentary it's
-
-https://github.com/flattermann/info-orbs/tree/LittleFS
-
 All files are completely open source.
 
 Use at your own risk!
